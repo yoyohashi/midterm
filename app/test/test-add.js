@@ -10,14 +10,4 @@ describe("add: 二つの引数の値を足す関数 add を以下の条件を満
       add(1, 3.14159).should.equal(4.14159);
     });
   });
-
-  context("二つの引数のどちらかが数値ではない時", function(){
-    it("nullを返す", function(){
-      add("1", 3.14159).should.equal(null);
-      add(1, "3.14159").should.equal(null);
-      add("1", "3.14159").should.equal(null);
-      add({}, []).should.equal(null);
-    });
-  });
-    
 });
