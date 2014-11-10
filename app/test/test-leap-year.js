@@ -17,9 +17,9 @@ describe("leapYear: 閏年判定を行う関数を leapYear を次の条件を�
     });
     context("その数が100の倍数だが、400の倍数ではない時", function(){
       it("falseを返す", function(){
-        leapYear(1900).should.equal(true);
-        leapYear(1700).should.equal(true);
-        leapYear(1300).should.equal(true);
+        leapYear(1900).should.equal(false);
+        leapYear(1700).should.equal(false);
+        leapYear(1300).should.equal(false);
       });
     });
     context("その数が400の倍数の時", function(){
