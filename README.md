@@ -16,7 +16,7 @@ GitHubでは次の2つの操作を行う：レポジトリのフォーク、PC�
 2. 画面右上にある"fork"ボタン（下図を参照のこと）をクリックする
 3. しばらく待つと、自分のアカウントにレポジトリがコピーされる
 
-https://github.com/ronpro2014f/midterm/raw/master/images/fork.png
+https://www.evernote.com/shard/s1/sh/d1ac970b-d6a6-4d3a-a967-ca9a79ad1fb9/97fd95ae32297c0c4f2d769d1c0af503
 
 ### PCへのクローン
 
