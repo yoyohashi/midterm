@@ -16,13 +16,13 @@ GitHubでは次の2つの操作を行う：レポジトリのフォーク、PC�
 2. 画面右上にある"fork"ボタン（下図を参照のこと）をクリックする
 3. しばらく待つと、自分のアカウントにレポジトリがコピーされる
 
-![GitHub上でのフォークボタン](https://github.com/ronpro2014f/midterm/raw/master/images/fork.png)
+https://github.com/ronpro2014f/midterm/raw/master/images/fork.png
 
 ### PCへのクローン
 
 レポジトリの右に"Clone in Desktop"というボタンがある。これを押すと、クライアントが起動しクローンできる。
 
-![Clone in Desktopボタン](https://github.com/ronpro2014f/midterm/raw/master/images/clone.png)
+https://github.com/ronpro2014f/midterm/raw/master/images/clone.png
 
 ## Mac での操作
 
@@ -32,7 +32,7 @@ Macでのターミナル起動方法と、サーバの起動方法を解説す�
 
 レポジトリの上でControl+クリックすると、メニューが表示される。その中の"Open in Terminal"を選ぶとターミナルが起動する。
 
-![Open in Terminalの選択](https://github.com/ronpro2014f/midterm/raw/master/images/open-teminal-in-mac.png)
+https://github.com/ronpro2014f/midterm/raw/master/images/open-teminal-in-mac.png
 
 ### サーバの起動
 
