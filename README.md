@@ -16,13 +16,13 @@ GitHubでは次の2つの操作を行う：レポジトリのフォーク、PC�
 2. 画面右上にある"fork"ボタン（下図を参照のこと）をクリックする
 3. しばらく待つと、自分のアカウントにレポジトリがコピーされる
 
-https://www.evernote.com/shard/s1/sh/d1ac970b-d6a6-4d3a-a967-ca9a79ad1fb9/97fd95ae32297c0c4f2d769d1c0af503
+![GitHub上のフォークボタン](https://www.evernote.com/shard/s1/sh/d1ac970b-d6a6-4d3a-a967-ca9a79ad1fb9/97fd95ae32297c0c4f2d769d1c0af503/res/822dd804-b13c-4f48-8f9a-63060711763e/skitch.png?resizeSmall&width=832)
 
 ### PCへのクローン
 
 レポジトリの右に"Clone in Desktop"というボタンがある。これを押すと、クライアントが起動しクローンできる。
 
-https://github.com/ronpro2014f/midterm/raw/master/images/clone.png
+![Clone in Desktopボタン](https://www.evernote.com/shard/s1/sh/9a20a083-25ff-458c-855b-89a0a74df6a2/a2866a809cd8eda8bedb6a01fa27d8d0/res/b4e292d9-aed8-4f00-98bc-cef8f5bff98c/skitch.png)
 
 ## Mac での操作
 
@@ -32,7 +32,7 @@ Macでのターミナル起動方法と、サーバの起動方法を解説す�
 
 レポジトリの上でControl+クリックすると、メニューが表示される。その中の"Open in Terminal"を選ぶとターミナルが起動する。
 
-https://github.com/ronpro2014f/midterm/raw/master/images/open-teminal-in-mac.png
+![Open in Terminal](https://www.evernote.com/shard/s1/sh/64bdcabb-1684-4819-9e33-84962786cc20/c9613dc90098d1b12447956283d235c4/res/c0205152-9b70-42a1-856f-a226e745ca87/skitch.png?resizeSmall&width=832)
 
 ### サーバの起動
 
